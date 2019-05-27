@@ -21,3 +21,5 @@
 >>    更新网络权值 // 输入层不会被误差估计改变  \<br>
 > until 所有样本正确分类或满足其他停止标准  
 > return 该网络  
+ ![image](https://github.com/1579477793/Back-Propagation-Neural-Network-Classification-Algorithm-of-ECG-Signal/blob/master/img/%E6%AD%A3%E5%B8%B8.jpg)
+ ![image](https://github.com/1579477793/Back-Propagation-Neural-Network-Classification-Algorithm-of-ECG-Signal/blob/master/img/%E7%BB%93%E6%9E%9C_%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%98%B5.jpg)
